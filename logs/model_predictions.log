@@ -1,0 +1,253 @@
+2024-05-23 22:31:41,672 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 22:31:41,672 [33mPress CTRL+C to quit[0m
+2024-05-23 22:37:22,399 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 22:37:22,399 [33mPress CTRL+C to quit[0m
+2024-05-23 22:41:10,998 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 22:41:10,998 [33mPress CTRL+C to quit[0m
+2024-05-23 22:42:34,358 Input: da, Prediction: I-LF
+2024-05-23 22:42:34,358 127.0.0.1 - - [23/May/2024 22:42:34] "POST /predict HTTP/1.1" 200 -
+2024-05-23 22:43:03,449 Input: gjgjkjk, Prediction: B-O
+2024-05-23 22:43:03,450 127.0.0.1 - - [23/May/2024 22:43:03] "POST /predict HTTP/1.1" 200 -
+2024-05-23 22:45:11,875 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 22:45:11,875 [33mPress CTRL+C to quit[0m
+2024-05-23 22:46:55,735 Input: Your input text here, Prediction: B-O
+2024-05-23 22:46:55,735 127.0.0.1 - - [23/May/2024 22:46:55] "POST /predict HTTP/1.1" 200 -
+2024-05-23 22:47:12,674 Input: da, Prediction: I-LF
+2024-05-23 22:47:12,674 127.0.0.1 - - [23/May/2024 22:47:12] "POST /predict HTTP/1.1" 200 -
+2024-05-23 22:57:56,491 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 22:57:56,491 [33mPress CTRL+C to quit[0m
+2024-05-23 22:58:48,342 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,342 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,437 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,437 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,439 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,440 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,445 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,445 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,446 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,446 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,449 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,449 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,450 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,450 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,451 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,451 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,451 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,451 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,451 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,452 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,452 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,452 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,536 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,536 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,540 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,541 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,541 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,542 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,556 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,556 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,557 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,558 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,559 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,562 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,562 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,562 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,562 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,563 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,564 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,565 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,566 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,570 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,626 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,627 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,629 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,631 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,642 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,642 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,660 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,661 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,666 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,666 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,667 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,668 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,668 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,669 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,669 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,670 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,670 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,670 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,671 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,672 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,706 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,708 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,713 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,716 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,759 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,760 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,767 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,767 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,768 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,768 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,773 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,773 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,776 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,776 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,777 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,777 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,777 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,777 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,784 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,785 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,788 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,788 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,798 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,799 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,866 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,866 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,877 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,878 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,883 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,884 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,884 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,885 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,885 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,885 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,886 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,886 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,887 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,888 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,888 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,889 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,889 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,890 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,893 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,893 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,950 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,953 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,984 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,985 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,991 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,991 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,993 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,993 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,995 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,995 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,996 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,996 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,997 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,998 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,999 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,999 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:48,999 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:48,999 127.0.0.1 - - [23/May/2024 22:58:48] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,000 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,000 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,021 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,024 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,082 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,082 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,100 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,101 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,102 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,104 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,104 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,104 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,104 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,105 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,107 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,107 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,107 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,107 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,108 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,108 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,110 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,110 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,116 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,117 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,133 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,133 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,193 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,194 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,205 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,205 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,206 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,206 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,213 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,213 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,218 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,220 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,222 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,223 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,227 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,229 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,233 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,234 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,234 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,235 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,237 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,239 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,286 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,286 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,307 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,309 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,311 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,311 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,323 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,323 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,332 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,333 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,335 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,336 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,337 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,337 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,339 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,340 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,341 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,343 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,344 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,347 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,366 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,366 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,372 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,372 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,374 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,374 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,379 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,379 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 22:58:49,380 Input: Da Data For Testing, Prediction: B-O
+2024-05-23 22:58:49,380 127.0.0.1 - - [23/May/2024 22:58:49] "POST /predict HTTP/1.0" 200 -
+2024-05-23 23:23:18,497 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-23 23:23:18,497 [33mPress CTRL+C to quit[0m
+2024-05-23 23:24:11,597 Input: Your input text here, Prediction: B-O
+2024-05-23 23:24:11,597 127.0.0.1 - - [23/May/2024 23:24:11] "POST /predict HTTP/1.1" 200 -
+2024-05-23 23:24:28,294 Input: da, Prediction: I-LF
+2024-05-23 23:24:28,294 127.0.0.1 - - [23/May/2024 23:24:28] "POST /predict HTTP/1.1" 200 -
+2024-05-23 23:24:39,722 Input: 01, Prediction: B-O
+2024-05-23 23:24:39,722 127.0.0.1 - - [23/May/2024 23:24:39] "POST /predict HTTP/1.1" 200 -
+2024-05-23 23:25:04,071 Input: knfkanfkjmlkfm  kfn kwnafklmnw, Prediction: B-O
+2024-05-23 23:25:04,071 127.0.0.1 - - [23/May/2024 23:25:04] "POST /predict HTTP/1.1" 200 -
+2024-05-24 03:47:39,005 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.77.216.127:5001
+2024-05-24 03:47:39,005 [33mPress CTRL+C to quit[0m
+2024-05-24 03:48:48,065 Input: Text to test the Endpoint, Prediction: B-O
+2024-05-24 03:48:48,065 127.0.0.1 - - [24/May/2024 03:48:48] "POST /predict HTTP/1.1" 200 -
